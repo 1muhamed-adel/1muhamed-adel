@@ -69,28 +69,9 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
   <summary><h2>🚀 Featured Projects</h2></summary>
 
   <p align="left">
-
-<a href="https://github.com/1muhamed-adel/e-commerce-website">
-  <img width="278"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=e-commerce-website&theme=tokyonight&hide_border=true"
-    alt="E-Commerce Website"
-  />
-</a>
-
-<a href="https://github.com/1muhamed-adel/bookmark-landing-page-master">
-  <img width="278"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=bookmark-landing-page-master&theme=tokyonight&hide_border=true"
-    alt="Bookmark Landing Page"
-  />
-</a>
-
-<a href="https://github.com/1muhamed-adel/digitalbank-landing-page-master">
-  <img width="278"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=digitalbank-landing-page-master&theme=tokyonight&hide_border=true"
-    alt="Digital Bank Landing Page"
-  />
-</a>
-
+    <a href="https://github.com/1muhamed-adel/e-commerce-website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=e-commerce-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce Website"></a>
+    <a href="https://github.com/1muhamed-adel/bookmark-landing-page-master"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=bookmark-landing-page-master&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bookmark Landing Page"></a>
+    <a href="https://github.com/1muhamed-adel/digitalbank-landing-page-master"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=digitalbank-landing-page-master&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Digital Bank Landing Page"></a>
   </p>
 
   <p align="center">

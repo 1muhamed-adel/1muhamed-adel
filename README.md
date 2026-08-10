@@ -70,7 +70,6 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
 
   <p align="left">
 
-```
 <a href="https://github.com/1muhamed-adel/e-commerce-website">
   <img width="278"
     src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=e-commerce-website&theme=tokyonight&hide_border=true"
@@ -91,7 +90,6 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
     alt="Digital Bank Landing Page"
   />
 </a>
-```
 
   </p>
 
@@ -209,4 +207,3 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
 <p align="center">
   <i>💻 Building, Learning, and Improving Every Day.</i>
 </p>
-```

@@ -65,25 +65,65 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
 
 ---
 
-<details open>
-  <summary><h2>🚀 Featured Projects</h2></summary>
+---
 
-  <p align="left">
-    <a href="https://github.com/1muhamed-adel/e-commerce-website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=e-commerce-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce Website"></a>
-    <a href="https://github.com/1muhamed-adel/bookmark-landing-page-master"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=bookmark-landing-page-master&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bookmark Landing Page"></a>
-    <a href="https://github.com/1muhamed-adel/digitalbank-landing-page-master"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=digitalbank-landing-page-master&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Digital Bank Landing Page"></a>
-  </p>
+## 🚀 Featured Projects
 
-  <p align="center">
-    <a href="https://github.com/1muhamed-adel?tab=repositories">
-      <img
-        src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"
-        alt="View All Repositories"
-      />
-    </a>
-  </p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🛒 E-Commerce Website</h3>
+      <p align="center">A responsive online store front-end built with modern web fundamentals.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <p align="center">
+        <a href="https://github.com/1muhamed-adel/e-commerce-website">
+          <img src="https://custom-icon-badges.demolab.com/badge/-View%20Repo-1F222E?style=for-the-badge&logoColor=white&logo=repo" alt="View Repo">
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🔖 Bookmark Landing Page</h3>
+      <p align="center">A pixel-perfect landing page solution built from a Frontend Mentor challenge.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <p align="center">
+        <a href="https://github.com/1muhamed-adel/bookmark-landing-page-master">
+          <img src="https://custom-icon-badges.demolab.com/badge/-View%20Repo-1F222E?style=for-the-badge&logoColor=white&logo=repo" alt="View Repo">
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🏦 Digital Bank Landing Page</h3>
+      <p align="center">A clean, responsive landing page for a fictional digital banking product.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <p align="center">
+        <a href="https://github.com/1muhamed-adel/digitalbank-landing-page-master">
+          <img src="https://custom-icon-badges.demolab.com/badge/-View%20Repo-1F222E?style=for-the-badge&logoColor=white&logo=repo" alt="View Repo">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-</details>
+<p align="center">
+  <a href="https://github.com/1muhamed-adel?tab=repositories">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"
+      alt="View All Repositories"
+    />
+  </a>
+</p>
 
 ---
 

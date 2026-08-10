@@ -1,17 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Computer+Science+Student;Building+Responsive+Web+Applications;Always+Learning+New+Things&font=Fira+Code&center=true&width=600&height=50&color=61DAFB&vCenter=true&pause=1000&size=22" />
+  <a href="https://github.com/1muhamed-adel">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Computer+Science+Student;Building+Responsive+Web+Applications;Always+Learning+New+Things&font=Fira+Code&center=true&width=600&height=50&color=61DAFB&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/1muhamed-adel">
-    <img src="https://img.shields.io/github/followers/1muhamed-adel?label=Followers&style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/muhamed-adel-a6924b363">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
-  <a href="https://github.com/1muhamed-adel?tab=repositories">
-    <img src="https://img.shields.io/github/stars/1muhamed-adel?label=Stars&style=for-the-badge&logo=github" />
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.frontendmentor.io/profile/1muhamed-adel">
+    <img width="32px" alt="Frontend Mentor" title="Frontend Mentor" src="https://img.icons8.com/color/48/code.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://1muhamed-adel.github.io/portfolio/">
+    <img width="32px" alt="Portfolio" title="Portfolio" src="https://img.icons8.com/color/48/domain.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:muhamed.adel.fci@gmail.com">
+    <img width="32px" alt="Email" title="Email" src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
 </p>
 
----
+<br/>
 
 ## 👋 About Me
 
@@ -23,23 +34,23 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+### 👨‍💻 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
 </p>
 
-### 🔧 Tools
+### 🧰 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
@@ -47,9 +58,9 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
 ## 📚 Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
 </p>
 
 ---
@@ -94,52 +105,87 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
   </p>
 
 </details>
+
 ---
 
 ## 🎓 Education
 
-**Faculty of Computers and Artificial Intelligence — Cairo University**
+### Faculty of Computers and Artificial Intelligence — Cairo University
 
-Computer Science Student
+**Computer Science Student**
 
 ---
 
 ## 🏆 Certifications & Training
 
-- NTI — Web Design Scholarship
-- HCIA-Security
+* NTI — Web Design Scholarship
+* HCIA-Security
 
 ---
 
-## 🌱 What I'm Working On
+## 🌱 Currently Working On
 
-- Building projects with React
-- Improving my TypeScript skills
-- Learning Django
-- Improving my problem-solving skills
-- Building a strong Frontend portfolio
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=1muhamed-adel&theme=tokyonight&hide_border=true" />
-</p>
+* Building projects with React
+* Improving my TypeScript skills
+* Learning Django
+* Improving my problem-solving skills
+* Building a strong Frontend portfolio
 
 ---
 
-## 📈 GitHub Activity
+<details open>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1muhamed-adel&theme=tokyo-night&hide_border=true" />
-</p>
+  <h3>🔥 Streak Stats</h3>
+
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=1muhamed-adel&theme=tokyonight&hide_border=true"
+        alt="Muhamed's GitHub Streak"
+      />
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="192px"
+      src="https://github-readme-stats.vercel.app/api/?username=1muhamed-adel&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+      alt="Muhamed's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="192px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1muhamed-adel&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Muhamed's Top Languages"
+    />
+  </a>
+
+<br/><br/>
+
+<b>Note:</b> Top languages is only a metric of the languages in my public repositories and doesn't reflect experience or skill level.
+
+  <h3>📈 GitHub Activity</h3>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph/?username=1muhamed-adel&theme=tokyo-night&hide_border=true"
+      alt="Muhamed's GitHub Activity Graph"
+    />
+  </a>
+
+</details>
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/muhamed-adel-a6924b363">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -155,6 +201,7 @@ Computer Science Student
   <a href="mailto:muhamed.adel.fci@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 
 ---
@@ -162,3 +209,4 @@ Computer Science Student
 <p align="center">
   <i>💻 Building, Learning, and Improving Every Day.</i>
 </p>
+```

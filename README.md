@@ -45,6 +45,15 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
   <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
 </p>
 
+### 💻 Programming & Computer Science Fundamentals
+
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+  <img alt="OOP" src="https://custom-icon-badges.demolab.com/badge/OOP-4B8BBE.svg?logo=repo&logoColor=white">
+  <img alt="Data Structures" src="https://custom-icon-badges.demolab.com/badge/Data%20Structures-4B8BBE.svg?logo=repo&logoColor=white">
+</p>
+
 ### 🧰 Tools
 
 <p>
@@ -62,8 +71,6 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
   <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
 </p>
-
----
 
 ---
 
@@ -149,55 +156,6 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
 * Learning Django
 * Improving my problem-solving skills
 * Building a strong Frontend portfolio
-
----
-
-<details open>
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=1muhamed-adel&theme=tokyonight&hide_border=true"
-        alt="Muhamed's GitHub Streak"
-      />
-    </a>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="192px"
-      src="https://github-readme-stats.vercel.app/api/?username=1muhamed-adel&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-      alt="Muhamed's GitHub Stats"
-    />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="192px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1muhamed-adel&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
-      alt="Muhamed's Top Languages"
-    />
-  </a>
-
-<br/><br/>
-
-<b>Note:</b> Top languages is only a metric of the languages in my public repositories and doesn't reflect experience or skill level.
-
-  <h3>📈 GitHub Activity</h3>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph/?username=1muhamed-adel&theme=tokyo-night&hide_border=true"
-      alt="Muhamed's GitHub Activity Graph"
-    />
-  </a>
-
-</details>
 
 ---
 

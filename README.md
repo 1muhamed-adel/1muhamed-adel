@@ -54,39 +54,46 @@ I'm currently focusing on **Frontend Development** and improving my skills in **
 
 ---
 
-## 🚀 Featured Projects
+<details open>
+  <summary><h2>🚀 Featured Projects</h2></summary>
 
-### 🛒 E-Commerce Website
+  <p align="left">
 
-A responsive e-commerce website with a modern and user-friendly interface.
+```
+<a href="https://github.com/1muhamed-adel/e-commerce-website">
+  <img width="278"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=e-commerce-website&theme=tokyonight&hide_border=true"
+    alt="E-Commerce Website"
+  />
+</a>
 
-**Technologies:** HTML, CSS, Bootstrap, JavaScript
+<a href="https://github.com/1muhamed-adel/bookmark-landing-page-master">
+  <img width="278"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=bookmark-landing-page-master&theme=tokyonight&hide_border=true"
+    alt="Bookmark Landing Page"
+  />
+</a>
 
-🔗 [Repository](https://github.com/1muhamed-adel/e-commerce-website)
-🌐 [Live Demo](https://1muhamed-adel.github.io/e-commerce-website/)
+<a href="https://github.com/1muhamed-adel/digitalbank-landing-page-master">
+  <img width="278"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=1muhamed-adel&repo=digitalbank-landing-page-master&theme=tokyonight&hide_border=true"
+    alt="Digital Bank Landing Page"
+  />
+</a>
+```
 
----
+  </p>
 
-### 🔖 Bookmark Landing Page
+  <p align="center">
+    <a href="https://github.com/1muhamed-adel?tab=repositories">
+      <img
+        src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"
+        alt="View All Repositories"
+      />
+    </a>
+  </p>
 
-A clean and responsive landing page for a bookmark manager, featuring browser extension downloads, interactive features, FAQ section, and an email subscription form.
-
-**Technologies:** HTML, CSS, Bootstrap 5.3, JavaScript
-
-🔗 [Repository](https://github.com/1muhamed-adel/bookmark-landing-page-master)
-🌐 [Live Demo](https://1muhamed-adel.github.io/bookmark-landing-page-master/)
-
----
-
-### 💳 Digital Bank Landing Page
-
-A modern responsive landing page focused on clean UI, responsive design, and a user-friendly experience.
-
-**Technologies:** HTML, CSS, Bootstrap 5.3, JavaScript
-
-🔗 [Repository](https://github.com/1muhamed-adel/digitalbank-landing-page-master)
-🌐 [Live Demo](https://1muhamed-adel.github.io/digitalbank-landing-page-master/)
-
+</details>
 ---
 
 ## 🎓 Education
